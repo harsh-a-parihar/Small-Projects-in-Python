@@ -12,7 +12,7 @@ Before using this script, ensure you have Python installed on your system. Addit
 1. Clone this repository to your local machine:
 
 ```bash 
- git clone https://github.com/your-username/mail-sender.git
+ git clone https://github.com/harsh-a-parihar/Small-Projects-in-Python/tree/master/mail_sender
 ```
 
 2. Make sure to replace placeholders in the script (`MY_EMAIL`, `MY_PASSWORD`, recipient's email address, subject, and content) with your actual email credentials and desired information.
