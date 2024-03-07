@@ -28,6 +28,7 @@ Each project in this repository is designed to focus on specific Python concepts
 ## Project List
 
 1. **Password Manager**: This is made by `tkinter module` in python to automate the process of saving sign-in credentials.
+2. **Mail Sender**: This is python script made by `smtplib` module in python to automate the process of sending emails using PythonAnyWhere.
 
 ## Installation and Prerequisites
 
