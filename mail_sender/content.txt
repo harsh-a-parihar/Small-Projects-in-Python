@@ -1,0 +1,8 @@
+Hi there!
+This file is just for example purpose.
+" You can add any type of content like, 
+greetings, birthday wish mail, quotes, newsletter, 
+etc."
+And send the content in this file to anyone.
+
+Enjoy!!
